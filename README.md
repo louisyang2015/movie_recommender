@@ -67,10 +67,10 @@ The API endpoints at "python/app/web_page/js/global.js", under the "lambda_apis"
 ## Documentation
 Under /doc:
 * **presentation.pptx** - instructions for running the full project. There is a video presentation:
-    * [Part 1 - Recommendation Algorithms, slides #1 ~ 10 (1 hour, 22 minutes) - link TBD](https://youtu.be/4ZKTAM-SEpY)
-    * [Part 2 - Big Data Techniques, slide #11 (1 hour, 25 minutes) - link TBD](https://youtu.be/4ZKTAM-SEpY)
-    * [Part 3 - Utilizing the Full Dataset, slides #12 ~ 19 (1 hour, 48 minutes) - link TBD](https://youtu.be/4ZKTAM-SEpY)
-    * [Part 4 - Recommender Application, slide #20 ~ 22 (43 minutes) - link TBD](https://youtu.be/4ZKTAM-SEpY)
+    * [Part 1 - Recommendation Algorithms, slides #1 ~ 10 (1 hour, 22 minutes)](https://youtu.be/AI8Ub4SEEAE)
+    * [Part 2 - Big Data Techniques, slide #11 (1 hour, 25 minutes)](https://youtu.be/fMmlneCaH34)
+    * [Part 3 - Utilizing the Full Dataset, slides #12 ~ 19 (1 hour, 48 minutes)](https://youtu.be/BC2zkgSpHgk)
+    * [Part 4 - Recommender Application, slide #20 ~ 22 (43 minutes)](https://youtu.be/4qYUdfKLfuY)
 * **movie_recommendation.docx** - documentation for the source code
 
 
