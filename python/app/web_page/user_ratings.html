@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/global.css">
+  <script src="js/global.js"></script>
+  <script src="js/MovieGrid.js"></script>
+  <title>User Ratings</title>
+  <style>
+    /* div { border: 2px solid red; }
+    a {border: 2px solid green;}
+    span { border: 2px solid blue } */
+  </style>
+</head>
+<body>
+
+  <!--Navigation bar-->
+  <div>
+    <a class="tab" href="index.html">Movies</a>
+    <span class="current_tab">Ratings</span>
+    <a class="tab" href="recommendations.html">Recommendations</a>
+  </div>
+
+  <!--user_ratings_div-->
+  <div class="movie_text_grid" id="user_ratings_div"></div>
+
+  <script>
+    let movie_text_grid = new MovieTextGrid(user_ratings_div);
+
+    call_api(lambda_apis.get_rated_movies,
+      {
+        "user_id": user_id
+      },
+      function (response) { // handler for rated movies
+        // console.log(response);
+        movie_text_grid.render(response);
+      }
+    );
+  </script>
+
+</body>
+</html>

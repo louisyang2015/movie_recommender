@@ -1,0 +1,55 @@
+/*<h1>, <a>*/
+h1 { text-align: center; color: green }
+
+/*<button>, <input>, <select> */
+input.textbox { font-size: large; width: 200px }
+button { font-size: large; padding: 5px 15px 5px 15px }
+
+/*<a>*/
+a {color: blue}
+a:link, a:visited { color: blue; text-decoration: none }
+a:hover { color: darkorange; cursor: pointer }
+a.movie_link_title {
+    display: flex; align-items: center; justify-content: center;
+    font-size: x-large
+}
+a.movie_link_title_smaller {text-align: center}
+a.left_arrow { font-size:1.5em }
+a.tab {color: blue; padding: 10px 30px 10px 30px;}
+a.tab:hover {color: blue; background-color: lightgoldenrodyellow}
+
+/*<div>*/
+div { font-size: large }
+div.movie_outer_grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-auto-rows: minmax(100px, auto); grid-gap: 10px;
+}
+div.movie_inner_grid {
+    display: grid; grid-template-rows: 1fr max-content max-content;
+    margin: 10px; text-align: center;
+}
+div.movie_text_grid {
+    display: grid; grid-template-columns: max-content max-content max-content;
+    grid-gap: 10px; justify-content: center; align-items: center;
+}
+div.movie_text_title {
+    display: flex; align-items: center; justify-content: center;
+    font-size: x-large
+}
+div.movie_text_title_smaller {text-align: center}
+div.link { cursor: pointer }
+div.link:hover { color: darkorange }
+
+/*<img>*/
+img.movie_poster { max-width: 100% }
+img.movie_poster:hover { opacity: 0.80 }
+
+/*<select>*/
+select {font-size: large}
+
+/*<span>*/
+span.star { cursor: pointer; font-size:xx-large }
+span.current_tab {font-size: 2em; padding: 10px 30px 10px 30px;
+    color: green;
+}
+

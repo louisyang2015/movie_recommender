@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recommendations</title>
+  <link rel="stylesheet" href="css/global.css">
+  <script src="js/global.js"></script>
+  <script src="js/MovieGrid.js"></script>
+  <script src="js/ModelParams.js"></script>
+  <style>
+    h2 {color: green;}
+    table { border-collapse: collapse; }
+    td { padding: 6px; border: 1px solid black;}
+    tr:nth-child(odd) { background-color: #f5f5dc; }
+  </style>
+</head>
+<body>
+
+  <!--Navigation bar-->
+  <div>
+    <a class="tab" href="index.html">Movies</a>
+    <a class="tab" href="user_ratings.html">Ratings</a>
+    <span class="current_tab">Recommendations</span>
+  </div>
+
+  <!--Algorithms-->
+  <select id="algorithm_cb" onchange="get_recommendations()" style="margin: 10px 10px 10px 30px">
+    <option value="tag_ls" selected="selected">Tag LS</option>
+    <option value="tag_count">Tag Count</option>
+    <option value="als3">ALS 3</option>
+    <option value="als5">ALS 5</option>
+    <option value="als7">ALS 7</option>
+    <option value="als9">ALS 9</option>
+    <option value="als11">ALS 11</option>
+  </select>
+
+  <!--recommendations_div-->
+  <div class="movie_outer_grid" id="recommendations_div"></div>
+
+  <!--model_params_div-->
+  <div id="model_params_div"></div>
+
+  <script>
+    const movie_grid = new MovieGrid(recommendations_div, {});
+    const model_params_table = new ModelParams(model_params_div);
+
+    let previous_choice = sessionStorage.getItem("algorithm_choice");
+    if (previous_choice != null)
+      algorithm_cb.value = previous_choice;
+
+    get_recommendations();
+
+    function get_recommendations()
+    {
+      // console.log("get_recommendations()");
+
+      // Recommendation computation could take a second, so print
+      // a place holder message.
+      movie_grid.render_temp_message("retrieving recommendations...");
+      model_params_table.render(null);
+
+      let algorithm = algorithm_cb.value;
+      sessionStorage.setItem("algorithm_choice", algorithm);
+
+      call_api(lambda_apis.recommend,
+        {
+          "user_id": user_id,
+          "algorithm": algorithm
+        },
+        function (response) { // handler for recommendations
+          // console.log(response);
+          if (response["error"] === "None") {
+            let model_params = JSON.parse(response["model_params"]);
+
+            movie_grid.render(response["movie_data"]);
+            model_params_table.render(model_params);
+          }
+          else {
+            movie_grid.render_temp_message(response["error"]);
+            model_params_table.render(null);
+          }
+        }
+      );
+    }
+
+  </script>
+</body>
+</html>

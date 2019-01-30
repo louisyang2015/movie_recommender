@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/global.css">
+  <script src="js/global.js"></script>
+  <script src="js/MovieGrid.js"></script>
+  <title>Movies</title>
+  <style>
+    /*div { border: 2px solid red; }
+    span { border: 2px solid blue } */
+  </style>
+</head>
+<body>
+  <!--Navigation bar-->
+  <div>
+    <span class="current_tab">Movies</span>
+    <a class="tab" href="user_ratings.html">Ratings</a>
+    <a class="tab" href="recommendations.html">Recommendations</a>
+  </div>
+
+  <!--Search box-->
+  <div style="text-align:center">
+    <input type="text" id="search_textbox" style="width:75%" class="textbox"
+           onkeyup="keyup_handler(event)" />
+    <button onclick="search()">Search</button>
+  </div>
+
+  <!--Search results-->
+  <div id="movie_grid_history"></div>
+  <div id="search_results" class="movie_outer_grid"></div>
+
+  <script>
+    const history_bar = new HistoryBar(movie_grid_history);
+    const movie_grid = new MovieGrid(search_results,
+      {
+        "similar_movies": true,
+        "history_bar": history_bar
+      });
+
+    function search() {
+      call_api(lambda_apis.search,
+        {
+          "title": search_textbox.value,
+          "user_id": user_id
+        },
+        function (response) { // handler for search API return
+          // console.log(response);
+          history_bar.clear();
+          history_bar.add("", response);
+          movie_grid.render(response);
+        }
+      );
+    }
+
+    function keyup_handler(e) {
+      if(e.key === "Enter") search();
+    }
+
+  </script>
+  
+
+</body>
+</html>

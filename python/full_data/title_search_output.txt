@@ -1,0 +1,756 @@
+Frequent tokens in the index:
+     count     
+      987       love
+      957       2
+      872       man
+      741       i
+      711       my
+      630       de
+      603       girl
+      578       night
+      566       dai
+      562       stori
+      541       from
+      526       le
+      507       no
+      496       you
+      490       is
+      483       me
+      480       life
+      438       last
+      430       with
+      428       at
+      424       time
+      398       3
+      384       live
+      376       it
+      368       world
+      366       movi
+      358       dead
+      349       black
+      343       death
+      340       all
+      334       boi
+      320       dark
+      318       littl
+      315       hous
+      288       christma
+      288       war
+      285       an
+      284       king
+      282       kill
+      274       blood
+      273       american
+      263       big
+      263       blue
+      261       new
+      255       out
+      254       citi
+      252       men
+      249       up
+      248       woman
+      247       die
+      246       who
+      245       secret
+      240       mr
+      237       your
+      236       red
+      233       white
+      228       two
+      225       be
+      220       star
+      215       go
+      212       that
+      211       year
+      211       adventur
+      208       angel
+      207       ladi
+      207       heart
+      205       lost
+      204       murder
+      200       we
+      200       three
+      197       tale
+      196       devil
+      195       wild
+      193       good
+      192       return
+      192       ey
+      191       home
+      191       come
+      191       dog
+      190       summer
+      189       god
+      188       not
+      188       dream
+      188       by
+      187       game
+      186       el
+      185       street
+      182       wai
+      181       high
+      177       great
+      177       what
+      177       killer
+      174       ghost
+      173       back
+      173       beauti
+      173       bad
+      171       don't
+      169       un
+      168       ar
+      167       end
+
+Frequent bigrams in the index:
+     count     
+       89       i am
+       77       new york
+       63       man who
+       50       part 2
+       49       i love
+       46       thi is
+       44       love stori
+       40       scoobi doo
+       38       onc upon
+       38       love you
+       37       my life
+       35       we ar
+       35       kung fu
+       34       an american
+       33       last dai
+       33       man from
+       33       sherlock holm
+       32       live dead
+       30       charli chan
+       30       upon time
+       30       escap from
+       30       live at
+       29       love is
+       28       love me
+       28       perri mason
+       27       high school
+       27       dragon ball
+       26       man with
+       26       my father
+       25       mason case
+       24       my name
+       24       my love
+       24       you ar
+       23       loui theroux
+       23       true stori
+       22       nation lampoon
+       22       untold stori
+       22       girl from
+       22       tale from
+       22       christma carol
+       22       with love
+       22       dead man
+       21       star war
+       21       part 1
+       21       who kill
+       21       name is
+       21       life is
+       21       i wa
+       20       from hell
+       20       ball z
+
+844 non-alphabetical words in index:
+{'accessory,th', 'zimmer/küche/bad', "d'orouët", "d'movi", "l'aprè",
+"b'tel", "l'enfant", "o'horten", 'be…', "l'estrapad", '2"', 's&man',
+"i'v", "d'argent", 'assassin(', '"superman', 'n.h', '100%', 'fear[s]',
+"d'inquiétud", 'f.i.s.t', 'billion$', "l'acadi", "l'évasion", '5.0',
+'d.b', 'ru$tla$', 'peur[s]', "s'embrass", "j'étai", "l'isola",
+'¡atraco', "d'egitto", '2°', "d'en", 'd.i', "p'tit", 'v/h/s/2',
+'l.i.e', "l'aventur", "l'appât", "l'histoir", '¡ai', 'will...for',
+"d'audienc", 'd.o.a', 'vai~e~vem', "d'agosto", "l'oiseau", 's/o',
+'tokyo.sora', "d'espion", 'i’m', 'g.c', "l'aub", 'balla…',
+"dell'orsa", "d'orsai", "d'ell", 'alibi.com', '09:06', '11:11',
+'a.a.a', 'q.bert', "l'infermiera", "dodes'ka", "l'auto", 'steins;gat',
+"l'educazion", 'j.c', "l'amico", "nell'onor", 'girl)friend',
+"n'import", 'dark;', "gridlock'd", "n'ever", 'm.iii.b', "l'assassin",
+'m.i.a', 'to.get.h', 'k.g', "nell'occhio", 'ac/dc', 'bat*21',
+"l'anné", 'startup.com', "l'instinct", 'offender]', 'st.2', '11/9',
+"wasn't", 'one)', '41.11', "ga'hool", "m'a", "l'enfer", "l'ile",
+'…and', "d'égarement", '18/9', 'c.a.t', "wouldn't", 'performances"',
+"they'r", 'succe$', "l'art", 't.v', '12:08', 'u.', 'true...ish',
+'l.b', '"top', "l'angelo", "d'autr", 'n.y.p.d', "s'è", "l'arcano",
+'c(r)ook', "l'arbr", "sull'oceano", "l'affair", 'b.c', 'frontière(',
+'¿quién', 'triumph’', 'fine..thank', "hallowe'en", 'jazzy@32',
+"l'inhumain", 'r)évolut', "l'aviateur", 's.h.a.d.o', "l'aldilà",
+'f**k', '7:39', 'i̇ntikam', "l'abbiamo", "un'est", 'z.p.g', 'f**kin',
+"i'll", '#*%$#@', "o'clock", "d'extérieur", '180°', '2009–', "j'ai",
+"d'aimer", '11:01', 'play$', "quelqu'un", 'h.m.', "l'optimism",
+'bank$ta', "l'instant", "dell'uso", "l'âge", 'edith+eddi', "o'brien",
+'247°f', "l'ultima", "mor'du", "l'ascens", '[rec]²', "l'arcier",
+"d'hiver", "l'énigm", "t'en", 'n.y', 'awesome;', 'i.r.t', "don't",
+"l'herb", "l'enfanc", 'st.petersburg', "l'adversair", 'd.a.r.y.l',
+"dell'anno", "o'shaughnessi", "l'automn", '1:54', "d'arc", 'livin’',
+'keepin’', '11:59', 'f***ed', "l'insol", "d'áfrica", 'henson’',
+"d'automn", "qu'on", 'x+y', 'a.p.e.x', "n'avez", "o'connor", "we'll",
+"o'farril", "l'ero", 'no.21', '08/15', 'b.u.s.t.e.d', "y'ur",
+'sx_tape', 'p.', "l'autr", "quat'sou", 'p.o', 'w.a.r', 'n°1',
+"l'outremangeur", 'cry_wolf', "d'améli", "l'odor", "s'appelait",
+"o'tool", '¡cuba', 'o.s.', '·', "s'éteint", "l'armata", 'tru$t',
+'i.o.u.s.a', 'tu£sdai', '"great', 's.o.', "l'extravag", 'id:a',
+'burglar’', 'r.s.v.p', 'r.o.d', '50,000', "d'oltretomba", 'g.m.o',
+"l'échec", "d'herculanum", 'w.w', 'c.c', 'k.o', 's.m.a.r.t', 'g.b.f',
+'v.1', 'f.o.x', "l'aigl", 'pk.com.cn', "sant'antonio", '¡que',
+"l'età", 'odnoklassniki.ru', 'f.o', "l'italia", 'trap.com', 'c.o.g',
+"nell'azzurro", "l'ang", "didn't", "crack'd", '11:00', '/', '[and',
+'$1,000,000', 'cake$', 'e.t', 'ii`', 'p.r.o.f.', '2:37',
+'dis)honesti', 'g.p', '8:46', "d'anarchia", "o'er", 'g:mt', 'dev.d',
+"d'une", 'u.s.n', 'sobrio...desd', "it'll", 'c.r.a.z.i', "l'ariet",
+"l'insegnant", 'l.627', '9.79', "l'ora", 'f*&%', '3:15',
+'#savetheworld', "qu'il", 'i̇vedik', 'c.o.d', "n'est", "d'école",
+"sant'agostino", '#1', "l'apocalyps", 'h.a.r.m', 'f*ck', "anadolu'da",
+'a.m', 's.o.b', "l'été", '11:14', 'b.b', "d'âne", '80.000', '[rec]',
+"l'inconnu", "l'ouest", 's.s.d', "o'neil",
+'metallica/slayer/megadeth/anthrax', 'father’', '65_redros',
+"o'grimm", "l'assedio", "l'intru", "d'antonin", "l'ador", "l'inferno",
+'xx/xy', "l'empreint", 'e=mc2', '0,5', "l'angoiss", "l'impiegato",
+"l'oeuvr", 'm.f.a', "l'essenc", "l'invité", 'd.k', "l'erba", '$5',
+"l'assaut", '2:13', '#701', "j'accus", '04:45', "l'emploi", 'm.b.b.',
+'h.m', "diff'rent", 'r.n', "we'r", "d'elza", '11.6', "dell'anonima",
+"d'oro", 'u.f.oh', '4.3.2.1', "l'ingorgo", "l'ombrellon", "n'arriv",
+'t,o,u,c,h,i,n,g', '#screamer', 'j.j', "d'aujourd'hui", "l'écume",
+"d'être", 'spectacle"', "aujourd'hui", 'd.c.h', 'life+1', '[regist',
+"l'esercito", 'i̇şi', '90°', "n'ira", '2006–2007', "s'appel",
+'$ellebr', "l'import", '1.5', "d'elia", 'battle;', 'b*a*p*', "d'amor",
+'you.com', "isn't", 'd.e.b.', "d'astré", 'a.', '–', "l'arnacoeur",
+"o'rourk", 'f/x', 'mckinley’', '50/50', "d'état", "l'industrial",
+"c'era", '|', 'that’', 'j.d.', 'i̇ndim', "inch'allah", 'stud"',
+'p.t.a', "ka'iulani", "d'astérix", "all'ultima", "d'o", "c'eravamo",
+'4:44', "d'adress", "l'enquêt", '$9.99', 'psych:9', 'c.i.a', 'r&b',
+"l'étrang", "that'll", 'malice@dol', "all'italiana", "d'itali",
+'¡átame', 'tolleranza...', "l'air", "l'uccello", 'on_lin', 'bébé(',
+"d'acqua", "d'arsèn", "l'onorata", 'editor?', 'advice(1994',
+"l'onorevol", "d'orchestra", "dov'è", '¡bruja', '7:19', 't.r',
+'‘rameau’', "d'acciaio", 'a.k', 'hulot’', "doesn't", "couldn't",
+"d'italia", "l'homm", 'o.j', "l'impresa", '¡vivan', "c'è", "entr'act",
+"dell'amor", 't.n.t', "m'aiment", "m'arriv", 't)error', "we'v",
+"l'horlog", "ju'hoansi", '¡qué', '2.0', "who'll", '5:15', 'n.j',
+"l'humanité", "bell'antonio", '"maine"', 'snowden’', 'he?)', 'b.a',
+"l'imag", "ch'ti", 's/y', 'f/x2', "what's'isnam", 'x/y', "qu'otar",
+'h.o.t', '1,5', 'v.i.p.', 'p.t.t', 'show”', "c'est", '11\'09"01',
+'a/k/a', "dell'alcazar", "l'ennemi", 'a.x.l', 'ha!', '#$&%',
+"luk'luk'i", "pandora'nin", '2.5', "l'amour", 'sequence)', "l'or",
+'s.f.w', "o'briain", "l'échafaud", 'i̇tirazım', '#2', '97%', 'g.i',
+"d'orphé", '“pass', 's.p.l', "d'affich", 'ro.go.pa.g', 'v/h/',
+"d'écart", '→', "l'île", 'ca$h', "ha'hal", "l'inverno", 'd.g',
+"l'hiver", '[rec]³', '20.000', 'c.i', "l'ail", "o'neal", 'm.p.h',
+'3.0', '×', "l'état", 'o.k', 'it’', 'doin’', '4.1', "d'inverno",
+"can't", "l'empereur", "gild'st", "l'ordr", "l'ami", 'garlic"', 'm.',
+"l'avventuriero", 'g@me', 'b.n.b', "m'appel", '"the', "j'aim",
+"t'aim", 'n.m', 'l!fe', "l'internet", "dell'esorcismo", "l'agnello",
+"li'l", "tol'abl", 'u.n.c.l.', "d'etat", 'room(h)at', 'a.r.c.h.i.',
+"l'odeur", "i'd", "l'allenator", "shouldn't", '&#354;epe&#351;',
+'flash.card', "s'en", '20,000', 'tma/svetlo/tma', "l'immortel",
+'15:17', 'ra.on', '10+10', "d'artagnan", '78/52', 's*p*y*',
+'akihabara@deep', 'a.r.o.g', '[ii]', "d'arco", "l'unica", 'after.lif',
+'11/11/11', 'l♡dk', 'h.p', 's&m', 'c.s.a', "d'avrai", "d'azur", 'c/o',
+'p.i', '$1,000', "aren't", "i'm", "i'ma", "d'henri", 'p.m', "o'shea",
+"l'argent", '10.5', "rock'n'rol", "l'assassino", 'jacked$',
+'#realityhigh', "l'incubo", "y'aura", 'b/w', "l'hypothès", "d'anna",
+'h.o.t.', 'b.', '66/67', "l'esquiv", '2:22', "d'or", "o'reilli",
+'5:30', '$50k', "j'attend", '7.2', '0.5mm', "l'aimai", '#captur',
+"d'à", 'nephew’', '7:35', 'ellen’', "ha'olam", "l'ombr", 'girl(',
+"l'albero", 'r.a.f', "you'v", 'd.c', 's.u.m.1', '3:10', "l'épicier",
+"l'étudiant", "l'usin", 'esther...th', 'f.b.i', 'f.c', "bab'aziz",
+'w.c', 'here....now', 'r.o.t.o.r', 'vic+flo', "l'antisémit",
+'sex@students.edu', 'c.h.u.d', 'hack//beyond', "l'altra",
+"l'illusionnist", '«5/4»', '1/3', '3.5', "d'urbervil", 'w.r',
+"l'auberg", "t'a", "l'annulair", "l'occup", 'no.1', "l'attaqu",
+"l'origin", '№8', '40,000', "l'imbranato", '#cheersmack', 'espion(',
+'minister’', 'we’r', "l'éternel", '#horror', 'doraemon:貓狗時空傳',
+"m'aim", '¡sufr', 'g.o.r.a', "s'il", "s'est", 'bananas!', "d'été",
+'softly...softli', '80,000', 'a.j', 'a)sexu', "l'autrichienn",
+"makhdu'un", "l'avar", "l'an", "l'innoc", '10%', '#chicagogirl',
+"ta'm", '3,000', '……not', 'h.g', "qu'est", "you'll", 'f.t.w', '$',
+'¡alambrista', 'alaska.d', '12:01', 'you..lov', '1/2', "l'incrust",
+"l'uomo", "l'america", "d'amour", "fin'n", 'a.c.o.d', "m'ha",
+"d'enfant", "d'auber", 'amor.com', "c'était", '∞', "d'artific",
+"won't", "l'amica", '11.22.63', '?', "l'obsess", "l'africano", '1.0',
+'10.000', "d'agnè", '43,000', 't.j', 'leák)(1981', 'd.l', 'j.a.c.',
+"d'oggi", "l'allé", 'f(r)iend', "d'ail", 'o.c', 'giger’', "d'india",
+'29+1', 'malatesta’', '$100,000', 'c.h.o.m.p.', '@', 'c.k',
+"l'avvertimento", '#$', '60%', "o'gil", '3°', 'd@bbe', "d'honneur",
+'11:55', 'kids?]', 'papers,th', "o'mallei", 'b.t.k', 'young@heart',
+"d'avenir", "mo'wax", "86'd", '¿qué', 'a.c.a.b', 't.', "she'll",
+"s'éveill", "d'un", 'bur&#299;chi', "l'avvocato", 'c.h.o',
+"l'arcidiavolo", '¡asu', 'lights...w', "d'adèl", "d'est", "l'équipag",
+"l'intérieur", 'slasher.com', "l'oranai", '#5', "o'hara", 'wall·',
+"l'espac", "d'amériqu", '¡a', 'h.h', "l'oro", 'w.e', "l'ombra",
+'happened…', 'i̇ftarlık', 'p.38', 'l.e.t.h.a.l', '10.0', "d'alexandr",
+'24×36', '37°2', 'b.f.', 'f.r.o.7', '¡three', "hasn't",
+'darkness/light/dark', '=', "l'amor", 'django...kil', "l'opéra",
+"l'invincibil", "o'dai", "o'gradi", "meshuga'at", "l'italien",
+'t.a.m.i', "l'empir", 'i.t', '5,000', 'r.p.m', '$20', "l'armé",
+'lives"', 'y/n', "d'eurasi", "l'effronté", "d'arrêt", 'lion’',
+'6,000', 'spy(i', 'm.i.b.³', "l'aveu", 'fear.com', 'god’', '13/13/13',
+'1.000.002', "dell'ira", 'r.m', 'dot.kil', '#9', 'high☆spe',
+"d'albergo", "ain't", 'y.m.i', '8:28', "l'emmerdeur", '+1',
+'grossissimo...anzi', 'i.d', "c'mon", "you'r", 'love.honour.obei',
+'s.a.m', 'co.', 'p.u.n.k.', 'i.f', "d'orchestr", '10,000', "o'har"}
+
+573 words ending in "s":
+{'seclus', 'ms', 'tass', 'hells', 'intercours', 'topless', 'kermess',
+'songstress', 'obsess', 'progress', 'eidechs', 'evas', 'loos',
+'defens', 'excurs', 'intress', 'muss', "s'embrass", 'ipcress', 'kaes',
+'entrepris', 'ass', 'longnos', 'lawless', 'limitless', 'becaus',
+'heartless', 'bass', 'ekstas', 'intens', 'surfwis', 'compass',
+'collectionneus', 'actress', 'burgess', 'impass', 'excus',
+'defenseless', 'floss', 'circus', 'warehous', 'gees', 'faithless',
+'nameless', 'princess', 'horrorvis', 'miss', 'goddess', 'respons',
+'illus', 'species', 'teahous', 'ours', 'godless', 'délicatess',
+'carross', 'triplecross', 'hopeless', 'minas', 'regardless',
+'mistress', 'kiss', 'bornless', 'sunless', 'ulyss', 'scorses', 'guis',
+'paes', 'starchas', 'toss', 'childless', 'motocross', 'huntress',
+'ghosthous', 'clitterhous', 'valseus', 'access', 'glorious',
+'métastas', 'breathless', 'class', 'press', 'sorceress', 'exclus',
+'metamorphos', 'firehous', 'vigiless', 'obess', 'pennywis', 'necess',
+'tess', 'lighthous', 'occas', 'kloss', 'gross', 'cleans', 'purpos',
+'bottomless', 'oss', 'ross', 'joueus', 'ivress', 'reis', 'despis',
+'divers', 'speedmous', 'nois', 'harmless', 'terrorvis', 'smartass',
+'elus', "l'ascens", 'shyness', 'excis', 'subdivis', 'crisscross',
+'briefcas', 'klass', 'spotless', 'os', 'sniddlegrass', 'joyless',
+'worthless', 'seahors', 'supercross', 'glaneus', 'doublecross',
+'flawless', 'fals', 'upris', 'fateless', 'portugues', 'cross',
+'expuls', 'slaughterhous', 'univers', 'schoolhous', 'kyss', 'excess',
+'oppos', 'métamorphos', 'glimps', 'hobbyhors', 'albatross', 'theres',
+'épous', 'admiss', 'deceas', 'invis', 'decis', 'voless', 'poss',
+'greas', 'offens', 'senseless', 'wors', 'claus', 'virtuos', 'confess',
+'corps', 'freudlos', 'masterclass', 'dans', 'distress', 'barfuss',
+'denis', 'religieus', 'clownhous', 'address', 'inklus', 'invas',
+'suspens', 'machibus', 'sleepless', 'recess', 'madhous', 'tourneus',
+'hotchkiss', 'muirhous', 'masseus', 'priceless', 'gloss', 'imposs',
+'persuas', 'treeless', 'sexmiss', 'paperhous', 'puls', 'abus',
+'sandglass', 'adventuress', 'matchless', 'sugarhous', 'louis',
+'expens', 'weiss', 'bolnavicioas', 'aris', 'sens', 'fuss', 'genius',
+'caress', 'glass', 'stripteas', 'millionairess', "l'apocalyps",
+'wifemistress', 'mous', 'revers', 'disguis', 'choos', 'juoks', 'eras',
+'countess', 'as', 'niss', 'lans', 'conclus', 'depress', 'byggekloss',
+'indahous', 'harrowhous', 'ascens', '65_redros', 'rosenstrass',
+'cathous', "l'angoiss", 'legales', 'shrekless', 'teas', 'incens',
+'stress', 'chinois', 'anglais', 'dollhous', "j'accus", 'avaleus',
+'warhous', 'schoenhaus', 'convers', 'cuiss', 'toothless', 'metastas',
+'cochis', 'jones', 'congress', 'hels', 'shadowchas', 'noiseus',
+'pervers', 'vs', 'laps', 'sunris', 'uliss', 'impos', 'noos',
+'empress', 'speechless', 'guess', 'gass', 'dismiss', 'portabors',
+'dreamless', 'foutais', 'serious', 'painless', 'tinysaurus',
+'montparnass', 'sunchas', 'abyss', 'buress', 'playhous', 'poliss',
+'happythankyoumorepleas', 'rudderless', 'paradis', 'cass', 'extens',
+'accus', 'ness', 'elois', "d'adress", 'clueless', 'mordkommiss',
+'dimens', 'expos', 'staircas', 'duchess', 'thanatomorphos',
+'tactilvis', 'exercis', 'grass', 'fleiss', 'chess', 'christmas',
+'pecoross', 'releas', 'repris', 'els', 'traceless', 'driftless',
+'safehous', 'primros', 'confus', 'repuls', 'gaulois', 'français',
+'mauvais', 'criss', 'licens', 'footloos', 'ruthless', 'treatis',
+'grindhous', 'pass', 'nonsens', 'embarrass', 'suitcas', 'jess',
+'marseillais', 'connass', 'apocalyps', 'ambros', 'nurs', 'possess',
+'callous', 'hous', 'regress', 'burmes', 'refus', 'penthous',
+'shameless', 'sssssss', 'enclos', 'vitess', 'sechs', 'bess',
+'soulless', 'repossess', 'renaiss', 'trespass', 'brass', 'voss',
+'faceless', '“pass', 'compuls', 'vinterkyss', 'process', 'puss',
+'concuss', 'russ', 'prais', 'métiss', 'moss', 'rs', 'gervais',
+'promess', 'és', 'uss', 'collaps', 'precis', 'quatermass', 'millhous',
+'us', 'solnts', 'japanes', 'useless', 'showcas', 'gundress',
+'poetess', 'peas', 'oppress', 'success', 'careless', 'eclips', 'elis',
+'diseas', 'soundless', 'hypernormalis', 'armless', 'surpris',
+'advers', 'witless', 'submiss', 'chees', 'coiffeus', 'endless',
+'couliss', 'süss', 'streetwis', 'arous', 'implaus', 'hostess',
+'carcass', 'advertis', 'reness', 'relentless', 'merluss', 'caus',
+'françois', 'promis', 'rais', 'less', 'loss', 'limehous', 'obes',
+'mujhs', 'torless', 'superinvis', 'delus', 'profess', 'furious',
+'hairdress', 'effus', "l'hypothès", 'osmos', 'earthris', 'marquis',
+'mess', 'brais', 'caboos', 'roadhous', 'chickensss', 'branleus',
+'temptress', 'forbannels', 'bais', 'stewardess', 'boss', 'helpless',
+'tristess', 'rehears', 'hors', 'amus', 'wodehous', 'reckless', 'foss',
+'remors', 'serdts', 'défens', 'kilplas', 'jurass', 'moonris',
+'bonaerens', 'mattress', 'agapis', 'fortress', 'hisss', 'tueus',
+'umas', 'is', 'honneamis', 'dress', 'borghes', 'kattpacalyps',
+'intermiss', 'enterpris', 'indivis', 'tigress', 'jackass', 'tuls',
+'permiss', 'purchas', 'superpowerless', 'forbrydels', 'divis',
+'whorehous', 'gunless', 'sweetgrass', 'clockwis', 'mabus', 'firebas',
+'s', 'ecliss', 'subvers', 'mongoos', 'seamstress', 'gatiss', 'sospes',
+'televis', 'badass', 'fauss', "l'obsess", 'merciless', 'seuss',
+'reclus', 'macross', 'chines', 'accurs', 'homeless', 'annelies',
+'inclus', 'cours', 'propos', 'curs', 'metalocalyps', 'cruis',
+'caless', 'abbess', 'hortens', 'ss', 'overdos', 'suppos', 'brodeus',
+'irrévers', 'buss', 'swiss', 'aggress', 'compress', 'across',
+'adultress', 'headless', 'bliss', 'transgress', 'geheimniss',
+'loveless', 'clees', 'pleas', 'corliss', 'baadasssss', 'advis',
+'deadris', 'starless', 'insens', 'express', 'cors', 'hellrais',
+'goos', 'funhous', 'dass', 'blais', 'curios', 'heiress', 'cutlass',
+'lioness', 'bless', 'guilass', 'waitress', 'compos', 'tortois',
+'trans', 'fängels', 'grous', 'mass', 'voleus', 'applaus', 'clariss',
+'doghous', 'es', 'hears', 'torimodos', 'spiderwebhous', 'impuls',
+'vers', 'technotis', 'irrevers', 'viennes', 'suess', 'blockhous',
+'maltes', 'fearless', 'maîtress', 'moonbas', 'bruis', 'fluss',
+'restless', 'explos', 'coloss', 'winepress', 'supermass', 'treehous',
+'jailhous', 'collis'}
+
+44 words ending in "ing":
+{'mazing', 'king', 'thing', 'ying', 'ing', 'ding', 'indring',
+'unhing', 'feuerbring', 'dilling', 'ging', 'greenfing', 'wing',
+'qing', 'bling', 'spring', 'ting', 'saling', 'ming', 'feigling',
+'xing', 'bowfing', 'bring', 'sting', 'goldfing', 'ning', 'shing',
+'jing', 'hing', 'harbing', 'fägring', 'sling', 'kissing', 'shlesing',
+'swing', 'fling', 'bing', 'ring', 'sing', 'ping', 'ling', 'string',
+'gunsling', 'ching'}
+
+117 words ending in "ion":
+{'centurion', 'opinion', 'action', 'tension', 'occasion', 'batallion',
+'affection', 'fraction', 'lion', 'nation', 'onion', 'clonazion',
+'scorpion', 'million', "l'évasion", 'marion', 'reunion', 'convention',
+'haarchion', 'legion', 'dion', 'talion', 'notion', 'spion',
+"d'espion", 'nacion', 'lektion', 'confession', 'evangelion',
+'guccion', 'dralion', 'session', 'communion', 'motion', "l'educazion",
+'flamarion', 'contagion', 'scullion', 'potion', 'fashion', 'mansion',
+'camion', 'profession', 'companion', 'function', 'suspicion',
+'minion', 'sion', 'séduction', 'ion', 'section', 'stallion', 'rion',
+'hellion', 'pavilion', 'oblivion', 'sanction', 'dépression',
+'question', 'champion', 'stazion', 'caution', 'galerion', 'lezion',
+'gion', 'reazion', 'station', 'dandelion', 'pasion', 'scipion',
+'vision', 'fiction', 'hexecution', 'creation', 'evangerion', 'région',
+'auction', 'cushion', 'cancion', 'execution', 'crucifixion',
+'conversazion', 'enchiridion', 'rivoluzion', 'pension', 'operazion',
+'fusion', 'provocazion', 'prostituzion', 'identificazion', 'didion',
+'commission', 'generazion', 'union', 'devolucion', 'battalion',
+'passion', 'version', 'macchinazion', 'rebellion', 'zion', 'option',
+'corruzion', 'imputazion', 'medallion', 'orion', 'albion',
+'pygmalion', 'junction', 'accordion', 'educazion', 'ossession',
+'dominion', 'mission', 'reaction', 'religion', 'billion'}
+
+Searching for: star war
+          score               movie ID           Title        
+         0.07945               187595     Solo: A Star Wars Story (2018)
+         0.07945               184593     Star Wars Downunder (2013)
+         0.07945               182857     Star Wars: The Legacy Revealed (2007)
+         0.07945               181357     Robot Chicken: Star Wars Episode III (2010)
+         0.07945               181355     Robot Chicken: Star Wars Episode II (2008)
+         0.07945               179819     Star Wars: The Last Jedi (2017)
+         0.07945               166528     Rogue One: A Star Wars Story (2016)
+         0.07945               150688     Plastic Galaxy: The Story of Star Wars Toys (2014)
+         0.07945               136485     Robot Chicken: Star Wars (2007)
+         0.07945               135216     The Star Wars Holiday Special (1978)
+         0.07945               122886     Star Wars: Episode VII - The Force Awakens (2015)
+         0.07945               109713     Star Wars: Threads of Destiny (2014)
+         0.07945               100089     Star Wars Uncut: Director's Cut (2012)
+         0.07945               79006      Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004)
+         0.07945               61160      Star Wars: The Clone Wars (2008)
+         0.07945               33493      Star Wars: Episode III - Revenge of the Sith (2005)
+         0.07945                5378      Star Wars: Episode II - Attack of the Clones (2002)
+         0.07945                2628      Star Wars: Episode I - The Phantom Menace (1999)
+         0.07945                1210      Star Wars: Episode VI - Return of the Jedi (1983)
+         0.07945                1196      Star Wars: Episode V - The Empire Strikes Back (1980)
+         0.07945                260       Star Wars: Episode IV - A New Hope (1977)
+         0.004545              192635     Star Slammer (1986)
+         0.004545              192385     A Star Is Born (2018)
+         0.004545              191401     Buzz Lightyear of Star Command: The Adventure Begins (2000)
+         0.004545              189945     Be My Star (2001)
+         0.004545              189707     Super Star (2008)
+         0.004545              189311     Shooting Stars (2002)
+         0.004545              188815     The Romancing Star (1987)
+         0.004545              188809     Star Crystal (1986)
+         0.004545              188661     Untitled Star Trek Sequel
+         0.004545              185851     The Last Movie Star (2017)
+         0.004545              185657     WWE: Greatest Wrestling Stars of the '90s (2009)
+         0.004545              185023     A Beautiful Star (2017)
+         0.004545              182537     Demolishing and Building Up the Star Theatre (1901)
+         0.004545              181225     The Whispering Star (2015)
+         0.004545              180801     My Lucky Star (1938)
+         0.004545              180569     The Star (2017)
+         0.004545              180147     An Unnamed Star (1978)
+         0.004545              179329     Film Stars Don't Die in Liverpool (2017)
+         0.004545              177785     All Star Comedy Jam (2009)
+         0.004545              177783     Shaquille O'Neal All-Star Comedy Jam Live from Atlanta (2013)
+         0.004545              177585     Star Boys (2017)
+         0.004545              176325     Star Leaf (2015)
+         0.004545              175969     Leslie Caron: The Reluctant Star (2016)
+         0.004545              175367     The Truth Is in the Stars (2017)
+         0.004545              173555     Star Command (1996)
+         0.004545              173025     Star Force: Fugitive Alien II (1987)
+         0.004545              172861     Star Runners (2009)
+         0.004545              172467     To The Stars By Hard Ways (1980)
+         0.004545              171613     The Star (2002)
+         0.004545              169516     Fist of the North Star: The Legend of Kenshiro (2008)
+         0.004545              169514     Fist of the North Star: Legend of Toki (2008)
+         0.004545              169512     Fist of the North Star: Legend of Raoh - Chapter of Fierce Fight (2007)
+         0.004545              169510     Fist of the North Star: Legend of Yuria (2007)
+         0.004545              169508     Fist of the North Star: Legend of Raoh - Chapter of Death in Love (2006)
+         0.004545              168374     Man Without a Star (1955)
+         0.004545              167856     Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2017)
+         0.004545              167586     Top Star (2013)
+         0.004545              167416     Perry Mason: The Case of the All-Star Assassin (1989)
+         0.004545              166792     Perry Mason: The Case of the Shooting Star (1986)
+         0.004545              166221     The Princess with the Golden Star (1959)
+         0.004545              164907     A Star for Christmas (2012)
+         0.004545              164580     Star Runner (2003)
+         0.004545              163685     The Star of Bethlehem (2007)
+         0.004545              163334     Star Spangled Rhythm (1942)
+         0.004545              162284     Amateur Porn Star Killer 2 (2008)
+         0.004545              162282     Amateur Porn Star Killer 3: The Final Chapter (2009)
+         0.004545              162280     Amateur Porn Star Killer (2006)
+         0.004545              160996     Star Games (1998)
+         0.004545              159634     The Day I Harvested a Star (2006)
+         0.004545              159429     Shooting Stars (1928)
+         0.004545              159317     Only Clouds Move the Stars (1998)
+         0.004545              158926     Catch a Christmas Star (2013)
+         0.004545              158400     Hyper Sapien: People from Another Star (1986)
+         0.004545              158352     I Aim at the Stars (1960)
+         0.004545              157176     A Storm in the Stars (2016)
+         0.004545              156390     All-Stars (2014)
+         0.004545              154850     Blazing a Trail to the Stars (1958)
+         0.004545              154840     All Stars 2: Old Stars (2011)
+         0.004545              154745     The Lone Star Trail (1943)
+         0.004545              154400     Prince and the Evening Star (1979)
+         0.004545              154228     All Stars (1997)
+         0.004545              151549     Five Star (2014)
+         0.004545              150794     Nine Muses of Star Empire (2014)
+         0.004545              149709     Barking at the Stars (1998)
+         0.004545              149592     My Lucky Star (2013)
+         0.004545              149412     Legend of the Galactic Heroes: My Conquest Is the Sea of Stars (1988)
+         0.004545              147843     Starring Adam West (2013)
+         0.004545              144870     Lone Star (1952)
+         0.004545              143249     Dark Star: HR Giger’s World (2014)
+         0.004545              142875     Star (2014)
+         0.004545              142268     Stars 80 (2012)
+         0.004545              141948     Lost in the Stars (1974)
+         0.004545              141814     The Captivating Star of Happiness (1975)
+         0.004545              141480     In the Dust of the Stars (1976)
+         0.004545              141402     Star Trek: Renegades (2015)
+         0.004545              140974     Star Spangled Girl (1971)
+         0.004545              140261     Set Fire to the Stars (2015)
+         0.004545              140080     Hour of the Star (1985)
+         0.004545              139618     The Star Making Machine (2012)
+
+Searching for: star trek 2
+          score               movie ID           Title        
+          1.658                 1374      Star Trek II: The Wrath of Khan (1982)
+          0.1571               188661     Untitled Star Trek Sequel
+          0.1571               141402     Star Trek: Renegades (2015)
+          0.1571               135569     Star Trek Beyond (2016)
+          0.1571               107137     Star Trek: Of Gods and Men (2007)
+          0.1571               102445     Star Trek Into Darkness (2013)
+          0.1571               68358      Star Trek (2009)
+          0.1571                5944      Star Trek: Nemesis (2002)
+          0.1571                2393      Star Trek: Insurrection (1998)
+          0.1571                1376      Star Trek IV: The Voyage Home (1986)
+          0.1571                1375      Star Trek III: The Search for Spock (1984)
+          0.1571                1373      Star Trek V: The Final Frontier (1989)
+          0.1571                1372      Star Trek VI: The Undiscovered Country (1991)
+          0.1571                1371      Star Trek: The Motion Picture (1979)
+          0.1571                1356      Star Trek: First Contact (1996)
+          0.1571                329       Star Trek: Generations (1994)
+         0.05882               99448      Trek Nation (2010)
+         0.00559               181355     Robot Chicken: Star Wars Episode II (2008)
+         0.00559               173025     Star Force: Fugitive Alien II (1987)
+         0.00559               162284     Amateur Porn Star Killer 2 (2008)
+         0.00559               154840     All Stars 2: Old Stars (2011)
+         0.00559               137583     Dog Star Man: Part II (1963)
+         0.00559               115558     Amazon Jack 2: The Movie Star (a.k.a. Hugo the Movie Star) (Jungledyret 2 - den store filmhelt) (1996)
+         0.00559                5378      Star Wars: Episode II - Attack of the Clones (2002)
+         0.004545              192635     Star Slammer (1986)
+         0.004545              192385     A Star Is Born (2018)
+         0.004545              191401     Buzz Lightyear of Star Command: The Adventure Begins (2000)
+         0.004545              189945     Be My Star (2001)
+         0.004545              189707     Super Star (2008)
+         0.004545              189311     Shooting Stars (2002)
+         0.004545              188815     The Romancing Star (1987)
+         0.004545              188809     Star Crystal (1986)
+         0.004545              187595     Solo: A Star Wars Story (2018)
+         0.004545              185851     The Last Movie Star (2017)
+         0.004545              185657     WWE: Greatest Wrestling Stars of the '90s (2009)
+         0.004545              185023     A Beautiful Star (2017)
+         0.004545              184593     Star Wars Downunder (2013)
+         0.004545              182857     Star Wars: The Legacy Revealed (2007)
+         0.004545              182537     Demolishing and Building Up the Star Theatre (1901)
+         0.004545              181357     Robot Chicken: Star Wars Episode III (2010)
+         0.004545              181225     The Whispering Star (2015)
+         0.004545              180801     My Lucky Star (1938)
+         0.004545              180569     The Star (2017)
+         0.004545              180147     An Unnamed Star (1978)
+         0.004545              179819     Star Wars: The Last Jedi (2017)
+         0.004545              179329     Film Stars Don't Die in Liverpool (2017)
+         0.004545              177785     All Star Comedy Jam (2009)
+         0.004545              177783     Shaquille O'Neal All-Star Comedy Jam Live from Atlanta (2013)
+         0.004545              177585     Star Boys (2017)
+         0.004545              176325     Star Leaf (2015)
+         0.004545              175969     Leslie Caron: The Reluctant Star (2016)
+         0.004545              175367     The Truth Is in the Stars (2017)
+         0.004545              173555     Star Command (1996)
+         0.004545              172861     Star Runners (2009)
+         0.004545              172467     To The Stars By Hard Ways (1980)
+         0.004545              171613     The Star (2002)
+         0.004545              169516     Fist of the North Star: The Legend of Kenshiro (2008)
+         0.004545              169514     Fist of the North Star: Legend of Toki (2008)
+         0.004545              169512     Fist of the North Star: Legend of Raoh - Chapter of Fierce Fight (2007)
+         0.004545              169510     Fist of the North Star: Legend of Yuria (2007)
+         0.004545              169508     Fist of the North Star: Legend of Raoh - Chapter of Death in Love (2006)
+         0.004545              168374     Man Without a Star (1955)
+         0.004545              167856     Bright Lights: Starring Carrie Fisher and Debbie Reynolds (2017)
+         0.004545              167586     Top Star (2013)
+         0.004545              167416     Perry Mason: The Case of the All-Star Assassin (1989)
+         0.004545              166792     Perry Mason: The Case of the Shooting Star (1986)
+         0.004545              166528     Rogue One: A Star Wars Story (2016)
+         0.004545              166221     The Princess with the Golden Star (1959)
+         0.004545              164907     A Star for Christmas (2012)
+         0.004545              164580     Star Runner (2003)
+         0.004545              163685     The Star of Bethlehem (2007)
+         0.004545              163334     Star Spangled Rhythm (1942)
+         0.004545              162282     Amateur Porn Star Killer 3: The Final Chapter (2009)
+         0.004545              162280     Amateur Porn Star Killer (2006)
+         0.004545              160996     Star Games (1998)
+         0.004545              159634     The Day I Harvested a Star (2006)
+         0.004545              159429     Shooting Stars (1928)
+         0.004545              159317     Only Clouds Move the Stars (1998)
+         0.004545              158926     Catch a Christmas Star (2013)
+         0.004545              158400     Hyper Sapien: People from Another Star (1986)
+         0.004545              158352     I Aim at the Stars (1960)
+         0.004545              157176     A Storm in the Stars (2016)
+         0.004545              156390     All-Stars (2014)
+         0.004545              154850     Blazing a Trail to the Stars (1958)
+         0.004545              154745     The Lone Star Trail (1943)
+         0.004545              154400     Prince and the Evening Star (1979)
+         0.004545              154228     All Stars (1997)
+         0.004545              151549     Five Star (2014)
+         0.004545              150794     Nine Muses of Star Empire (2014)
+         0.004545              150688     Plastic Galaxy: The Story of Star Wars Toys (2014)
+         0.004545              149709     Barking at the Stars (1998)
+         0.004545              149592     My Lucky Star (2013)
+         0.004545              149412     Legend of the Galactic Heroes: My Conquest Is the Sea of Stars (1988)
+         0.004545              147843     Starring Adam West (2013)
+         0.004545              144870     Lone Star (1952)
+         0.004545              143249     Dark Star: HR Giger’s World (2014)
+         0.004545              142875     Star (2014)
+         0.004545              142268     Stars 80 (2012)
+         0.004545              141948     Lost in the Stars (1974)
+         0.004545              141814     The Captivating Star of Happiness (1975)
+
+Searching for: battle of gods dragon ball
+          score               movie ID           Title        
+          0.8429               107953     Dragon Ball Z: Battle of Gods (2013)
+          0.7644               169524     Saint Seiya: The Heated Battle of the Gods (1988)
+         0.07851               189555     Dragon Ball Z - The Fall of Men (2015)
+         0.07851               138944     Dragon Ball: Episode of Bardock (2011)
+         0.07851               137863     Dragon Ball Z: Resurrection of F (2015)
+         0.07851               137859     Dragon Ball Z Gaiden: The Plot to Destroy the Saiyans (1993)
+         0.07851               135825     Dragon Ball: Yo! Son Goku and Friends Return!! (2008)
+         0.07851               108090     Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi) (1996)
+         0.07851               107999     Dragon ball Z 04: Lord Slug (1991)
+         0.07851               96007      Dragon Ball GT: A Hero's Legacy (Doragon bôru GT: Gokû gaiden! Yûki no akashi wa sû-shin-chû) (1997)
+         0.07851               96004      Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993)
+         0.07851               95965      Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990)
+         0.07851               95963      Dragon Ball Z: Wrath of the Dragon (Doragon bôru Z 13: Ryûken bakuhatsu!! Gokû ga yaraneba dare ga yaru) (1995)
+         0.07851               95782      Dragon Ball Z: Fusion Reborn (Doragon bôru Z 12: Fukkatsu no fyushon!! Gokû to Bejîta) (1995)
+         0.07851               95780      Dragon Ball Z: Bio-Broly (Doragon bôru Z 11: Sûpâ senshi gekiha! Katsu no wa ore da) (1994)
+         0.07851               95771      Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai) (1994)
+         0.07851               95519      Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu) (1993)
+         0.07851               95499      Dragon Ball Z: Broly - The Legendary Super Saiyan (Doragon bôru Z 8: Moetsukiro!! Nessen retsusen-chô gekisen) (1993)
+         0.07851               95497      Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin) (1992)
+         0.07851               95475      Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô) (1991)
+         0.07851               95473      Dragon Ball Z: The Return of Cooler (Doragon bôru Z 6: Gekitotsu! Hyakuoku pawâ no senshi) (1992)
+         0.07851               95182      Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990)
+         0.07851               95165      Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu) (1990)
+         0.07851               95163      Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai bôken) (1988)
+         0.07851               95147      Dragon Ball: Sleeping Princess in Devil's Castle (Doragon bôru: Majinjô no nemuri hime) (1987)
+         0.07851               95145      Dragon Ball: The Curse Of The Blood Rubies (Doragon bôru: Shenron no densetsu) (1986)
+         0.07851               80083      Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989)
+         0.01667               183485     Bowling Balls (2014)
+         0.01667               180629     Golden Balls (1993)
+         0.01667               180369     Beach Ball (1965)
+         0.01667               179677     The Secret Policeman's Ball (1979)
+         0.01667               174027     After the Ball (1897)
+         0.01667               172353     Cupid's Balls (2011)
+         0.01667               167108     The Golden Ball (1994)
+         0.01667               165271     The Butterfly Ball (1977)
+         0.01667               152627     Balls to the Wall (2011)
+         0.01667               150026     The Ball (1999)
+         0.01667               144804     Red Ball Express (1952)
+         0.01667               144772     The Ball at the Anjo House (1947)
+         0.01667               136686     After the Ball (2015)
+         0.01667               136650     Balls Out (2014)
+         0.01667               131892     Beach Balls (1988)
+         0.01667               124119     Love is a Ball (1963)
+         0.01667               119854     Half Right Half Left - Two Players Without the Ball (1985)
+         0.01667               115283     Purple Ball, The (Lilovyy shar) (1987)
+         0.01667               113099     8-Ball (8-pallo) (2013)
+         0.01667               106525     Crystal Ball, The (1943)
+         0.01667               92829      Smokin' Aces 2: Assassins' Ball (2010)
+         0.01667               90748      Operation Mad Ball (1957)
+         0.01667               85291      Fubar II (Fubar: Balls to the Wall) (2010)
+         0.01667               81027      Autumn Ball (Sügisball) (2007)
+         0.01667               68600      Balls Out: Gary the Tennis Coach (2009)
+         0.01667               58812      Ball, The (Le bal) (1983)
+         0.01667               54732      Balls of Fury (2007)
+         0.01667               25868      Ball of Fire (1941)
+         0.01667                8263      Take Me Out to the Ball Game (1949)
+         0.01667                6125      Secret Policeman's Other Ball, The (1982)
+         0.01667                5142      Firemen's Ball, The (Horí, má panenko) (1967)
+         0.01667                5015      Monster's Ball (2001)
+         0.01667                4599      Great Balls of Fire! (1989)
+         0.01158               134643     Dungeons & Dragons: Wrath of the Dragon God (2005)
+         0.009091              192553     Battle for the Lost Planet (1986)
+         0.009091              191335     The Battle of Kerzhenets (1971)
+         0.009091              191235     GODZILLA: City on the Edge of Battle (2018)
+         0.009091              190527     Lawrence of Arabia: The Battle for the Arab World (2003)
+         0.009091              189915     Todd McFarlane's Spawn 3: The Ultimate Battle (1999)
+         0.009091              188643     The Battle Of Chosin (2016)
+         0.009091              186087     Love Battles (2013)
+         0.009091              185167     Battle of the Drones (2017)
+         0.009091              184053     Battle Planet (2008)
+         0.009091              183977     The Battle of the Somme (1916)
+         0.009091              183969     Battle of Warsaw 1920 (2011)
+         0.009091              182957     The Kitchen: World Chef Battle (2017)
+         0.009091              180275     Liberation: Battle For Berlin (1972)
+         0.009091              177237     Battle of the Sexes (2017)
+         0.009091              176703     Stalin - Trotsky: A Battle to Death (2015)
+         0.009091              173837     Dragonheart: Battle for the Heartfire (2017)
+         0.009091              172497     T2 3-D: Battle Across Time (1996)
+         0.009091              171481     Santa Claus. Battle of Mages (2016)
+         0.009091              171031     Citizen Jane: Battle for the City (2016)
+         0.009091              169528     Saint Seiya: Warriors of the Final Holy Battle (1989)
+         0.009091              169020     In Dubious Battle (2017)
+         0.009091              168202     Men Go to Battle (2016)
+         0.009091              167678     Superheroes: A Never-Ending Battle (2013)
+         0.009091              166064     Battle Under Orion (2009)
+         0.009091              165753     The Battle of Midway (1942)
+         0.009091              165135     Le Grand Chef 2: Kimchi Battle (2010)
+         0.009091              164312     Battle Taxi (1955)
+         0.009091              163849     The Battle (1934)
+         0.009091              158266     The Battle of Chile - Part 3 (1979)
+         0.009091              158264     The Battle of Chile - Part 2 (1977)
+         0.009091              158258     The Battle of Chile - Part 1 (1975)
+         0.009091              157799     Battle Arena Toshinden (1996)
+         0.009091              157009     The Battle at Elderbush Gulch (1913)
+         0.009091              157002     The Battle (1911)
+         0.009091              156323     The Battle of the Century (1927)
+         0.009091              155271     The Battle of the Damned (1969)
+         0.009091              151424     The Battle of El Alamein (1969)
+         0.009091              150635     The Battle Of The Villa Fiorita (1965)
+         0.009091              150479     The Battle of Sutjeska (1973)
+
+Searching for: ad
+          score               movie ID           Title        
+         0.08333               181499     Smetto quando voglio: Ad honorem (2017)
+         0.08333               170463     A.D. The Bible Continues (2015)
+         0.08333               151285     I 2 gattoni a nove code... e mezza, ad Amsterdam (1972)
+         0.08333               150030     Ad Fundum (1993)
+         0.08333               144278     2000 AD (2000)
+         0.08333               141092     Come imparai ad amare le donne (1966)
+         0.08333               107155     Captive Women (1000 Years from Now) (3000 A.D.) (1952)
+         0.08333               97242      Daleks' Invasion Earth: 2150 A.D. (1966)
+         0.08333               81715      Steel of Fire Warriors 2010 A.D. (2008)
+         0.08333               61350      Babylon A.D. (2008)
+         0.08333               27608      Immortel (ad vitam) (Immortal) (2004)
+         0.08333               26266      Dracula A.D. 1972 (1972)
+
+Searching for: shield
+          score               movie ID           Title        
+          0.1667               141670     Shield of Straw (2013)
+          0.1667               140401     The Black Shield Of Falworth (1954)
+          0.1667               132232     Shield for Murder (1954)
+          0.1667               123957     The Human Shield (1992)
+          0.1667               112326     Nick Fury: Agent of S.H.I.E.L.D. (1998)
+          0.1667                245       The Glass Shield (1994)
+

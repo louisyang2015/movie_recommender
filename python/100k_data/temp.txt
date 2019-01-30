@@ -1,0 +1,479 @@
+The index has 9741 titles.
+Frequent tokens in the index:
+     count      word
+      187       man
+      181       2
+      124       love
+      116       dai
+      106       i
+      105       ii
+       99       night
+       97       my
+       94       movi
+       93       le
+       91       no
+       89       stori
+       89       de
+       85       girl
+       82       it
+       81       from
+       80       you
+       79       me
+       78       life
+       76       with
+       75       last
+       75       3
+       70       dead
+       65       boi
+       64       world
+       64       american
+       61       war
+       60       time
+       59       king
+       58       littl
+       58       big
+       58       all
+       57       mr
+       57       at
+       56       men
+       55       live
+       55       an
+       54       new
+       54       hous
+       53       who
+       53       death
+       52       is
+       52       blue
+       50       part
+       50       christma
+       50       adventur
+       49       dark
+       48       dragon
+       48       dog
+       47       iii
+       45       up
+       45       star
+       45       return
+       45       red
+       45       black
+       43       game
+       42       kill
+       42       high
+       42       citi
+       40       white
+       40       secret
+       39       two
+       38       out
+       38       kid
+       38       blood
+       37       lost
+       37       be
+       36       we
+       36       that
+       36       legend
+       36       ghost
+       35       your
+       35       year
+       35       woman
+       35       tale
+       35       heart
+       35       bad
+       34       z
+       34       three
+       34       by
+       34       angel
+       33       wild
+       33       what
+       33       thing
+       33       street
+       33       final
+       33       beauti
+       32       great
+       32       first
+       32       ey
+       32       back
+       31       good
+       31       go
+       31       get
+       31       earth
+       31       about
+       30       dream
+       30       die
+       30       4
+       29       un
+
+Frequent bigrams in the index:
+     count      word
+       22       dragon ball
+       17       new york
+       17       doragon bôru
+       17       ball z
+       16       sherlock holm
+       14       i love
+       13       star war
+       13       star trek
+       13       part ii
+       12       man who
+       12       bôru z
+       12       american pie
+       11       nation lampoon
+       11       love you
+       10       onc upon
+       10       doctor who
+       10       christma carol
+       9        upon time
+       9        planet ap
+       9        i am
+       9        harri potter
+       9        fridai 13th
+       9        fast furiou
+       9        beverli hill
+       8        winni pooh
+       8        teenag mutant
+       8        scoobi doo
+       8        part 1
+       8        ninja turtl
+       8        nightmar elm
+       8        mutant ninja
+       8        ghost shell
+       8        elm street
+       8        babylon 5
+       7        x men
+       7        war episod
+       7        texa chainsaw
+       7        polic academi
+       7        pink panther
+       7        man from
+       7        kung fu
+       7        ic ag
+       7        final destin
+       7        escap from
+       7        dave chappel
+       7        adventur sherlock
+       7        3 d
+       7        13th part
+       6        you can
+       6        wallac gromit
+
+134 non-alphabetical words in index:
+{'p.', "l'apocalyps", "d'été", '2006–2007', 'f*ck', "you'v", '1.5',
+'bat*21', "l'empereur", 'n°1', '#9', "isn't", "don't", 'd.e.b.',
+"can't", "d'une", "won't", 'v/h/s/2', '#1', 'g.b.f', 'startup.com',
+'f/x2', 'm.i.b.³', "d'astérix", 'c.h.o', 'u.', "we'r", '9/11',
+"o'brien", "l'amour", '11\'09"01', '20,000', 'r.n', 'frontière(',
+'3.5', "j'ai", 'c.r.a.z.i', "l'arnacoeur", "d'orchestra", "l'armé",
+'¿qué', "ga'hool", '[rec]', "l'auberg", "nell'azzurro", '[rec]²',
+'¡átame', "d'un", "i'll", '1/2', 'hulot’', "c'est", '¡three', '1,5',
+'c.k', '1.0', "t'aim", "you'll", '10,000', "l'échafaud", "i'm",
+"l'empir", "l'an", "l'herb", 'wall·', '2.5', "d'ail", '#$',
+"all'italiana", 'm.iii.b', '5,000', '3:10', 'succe$', '11:14',
+"d'améli", "you'r", "d'arc", "c'era", '50/50', 'g.i', '2.0',
+"l'intérieur", 'o.j', 'b*a*p*', '[rec]³', "d'amériqu", 'f/x',
+"l'autr", 'b/w', 'l.i.e', "l'enfant", "d'école", "s'est", "doesn't",
+"o'clock", 'd.o.a', "who'll", 'v/h/', "d'automn", "wouldn't", 'e.t',
+"d'o", 'i.o.u.s.a', "d'agosto", "sull'oceano", '3.0', "d'adèl",
+"o'shea", "l'illusionnist", "wasn't", 'steins;gat', 's.f.w',
+"d'enfant", "l'odeur", 'u.n.c.l.', "l'emploi", 'ro.go.pa.g', 'm.b.b.',
+"l'instinct", "l'écume", "ta'm", "gridlock'd", "l'aventur",
+"l'ennemi", "d'à", "o'gil", "d'egitto", 'cry_wolf', 'fear.com', 'a.',
+'d.a.r.y.l', '1/3', "ch'ti", "l'enfanc"}
+
+197 words ending in "s":
+{'hors', "l'apocalyps", 'maltes', 'breathless', 'coiffeus',
+'intermiss', 'claus', 'os', 'guilass', 'tess', 'valseus', 'limitless',
+'princess', 'jurass', 'disguis', 'compass', 'propos', 'glaneus',
+'eclips', 'renaiss', 'bais', 'irrevers', 'collis', 'promis', 'puss',
+'expos', 'possess', 'confess', 'curs', 'paradis', 'mabus', 'repuls',
+'virtuos', 'impos', 'mess', 'corps', 'univers', 'footloos',
+'waitress', 'diseas', 'express', 'rehears', 'jones', 'indahous',
+'sleepless', 'surpris', 'japanes', 'mass', 'advertis', 'mous',
+'christmas', 'hairdress', 'pass', 'becaus', 'guess', 'invas',
+'moonris', 'senseless', 'fearless', 'priceless', 'fals', 'pleas',
+'speechless', 'miss', 'enterpris', 'brass', 'purpos', 'convers',
+'licens', 'accus', 'louis', 'anglais', 'eras', 'grass', 'obsess',
+'rudderless', 'sunless', 'success', 'bliss', 'nois', 'abyss', 'cours',
+'duchess', 'albatross', 'recess', 'denis', 'hous', 'is', 'stripteas',
+'across', 'hellrais', 'reckless', 'advers', 'clueless', 'seuss',
+'geheimniss', 'apocalyps', 'clockwis', 'boss', 'admiss', 'actress',
+'advis', 'whorehous', 'els', 'spotless', 'chines', 'promess',
+'repossess', 'temptress', 'releas', 'decis', 'dimens', 'loss', 'ass',
+'collectionneus', 'extens', 'dollhous', 'cass', 'kiss', 'confus',
+'invis', 'jackass', 'bless', 'nurs', 'rais', 'endless', 'honneamis',
+'kaes', 'greas', 'sunris', 'inklus', 'ruthless', 'cruis', 'cross',
+'persuas', 'televis', 'klass', 'concuss', 'jess', 'teahous', 'solnts',
+'staircas', 'excess', 'sweetgrass', 'ss', 'as', 'fleiss', 'heartless',
+'swiss', 'fortress', 'teas', 'laps', 'madhous', 'defens', 'pervers',
+'glimps', 'dress', 'ipcress', 'sens', 'aris', 'puls', 'slaughterhous',
+'sorceress', 'baadasssss', 'glass', 'irrévers', 'heiress', 'less',
+'brodeus', 'distress', 'illus', 's', 'vs', 'hypernormalis', 'lawless',
+'class', 'press', 'imposs', 'mistress', 'upris', 'funhous',
+'flawless', 'loos', 'revers', 'serdts', 'paperhous', 'shameless',
+'us', 'genius', 'gross', 'grindhous', 'hels', 'goos', 'ness',
+'quatermass', 'ross', 'caus'}
+
+24 words ending in "ing":
+{'spring', 'kissing', 'greenfing', 'hing', 'ging', 'king', 'bling',
+'thing', 'jing', 'bring', 'ring', 'bing', 'swing', 'xing', 'bowfing',
+'shing', 'sling', 'shlesing', 'sing', 'wing', 'goldfing', 'ying',
+'sting', 'string'}
+
+43 words ending in "ion":
+{'version', 'legion', 'passion', 'rebellion', 'action', 'nation',
+'potion', 'contagion', 'creation', 'reunion', 'onion', 'lion',
+'dominion', 'minion', 'billion', 'evangerion', 'profession',
+'communion', 'station', 'mansion', 'million', 'pygmalion',
+'suspicion', 'union', 'vision', 'function', 'séduction', 'companion',
+'occasion', 'caution', 'oblivion', 'question', 'tension', 'junction',
+'reaction', 'evangelion', 'session', 'scorpion', 'medallion',
+'stallion', 'motion', 'fiction', 'mission'}
+
+Searching for: star war
+          score               movie ID           Title        
+          0.154                187595     Solo: A Star Wars Story (2018)
+          0.154                179819     Star Wars: The Last Jedi (2017)
+          0.154                166528     Rogue One: A Star Wars Story (2016)
+          0.154                135216     The Star Wars Holiday Special (1978)
+          0.154                122886     Star Wars: Episode VII - The Force Awakens (2015)
+          0.154                79006      Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004)
+          0.154                61160      Star Wars: The Clone Wars (2008)
+          0.154                33493      Star Wars: Episode III - Revenge of the Sith (2005)
+          0.154                 5378      Star Wars: Episode II - Attack of the Clones (2002)
+          0.154                 2628      Star Wars: Episode I - The Phantom Menace (1999)
+          0.154                 1210      Star Wars: Episode VI - Return of the Jedi (1983)
+          0.154                 1196      Star Wars: Episode V - The Empire Strikes Back (1980)
+          0.154                 260       Star Wars: Episode IV - A New Hope (1977)
+         0.02222               135569     Star Trek Beyond (2016)
+         0.02222               112070     Maps to the Stars (2014)
+         0.02222               111921     The Fault in Our Stars (2014)
+         0.02222               103210     Fullmetal Alchemist: The Sacred Star of Milos (2011)
+         0.02222               102445     Star Trek Into Darkness (2013)
+         0.02222               98633      My Lucky Stars (Fuk sing go jiu) (1985)
+         0.02222               84414      All-Star Superman (2011)
+         0.02222               71327      Bright Star (2009)
+         0.02222               68358      Star Trek (2009)
+         0.02222               57183      Like Stars on Earth (Taare Zameen Par) (2007)
+         0.02222               53453      Starcrash (a.k.a. Star Crash) (1978)
+         0.02222               42422      Voices of a Distant Star (Hoshi no koe) (2003)
+         0.02222               27692      And Starring Pancho Villa as Himself (2003)
+         0.02222               26285      Dark Star (1974)
+         0.02222               25996      Star Is Born, A (1954)
+         0.02222                6702      Dickie Roberts: Former Child Star (2003)
+         0.02222                6107      Night of the Shooting Stars (Notte di San Lorenzo, La) (1982)
+         0.02222                5944      Star Trek: Nemesis (2002)
+         0.02222                4757      Rock Star (2001)
+         0.02222                4198      Battle Beyond the Stars (1980)
+         0.02222                3217      Star Is Born, A (1937)
+         0.02222                2393      Star Trek: Insurrection (1998)
+         0.02222                1613      Star Maps (1997)
+         0.02222                1376      Star Trek IV: The Voyage Home (1986)
+         0.02222                1375      Star Trek III: The Search for Spock (1984)
+         0.02222                1374      Star Trek II: The Wrath of Khan (1982)
+         0.02222                1373      Star Trek V: The Final Frontier (1989)
+         0.02222                1372      Star Trek VI: The Undiscovered Country (1991)
+         0.02222                1371      Star Trek: The Motion Picture (1979)
+         0.02222                1356      Star Trek: First Contact (1996)
+         0.02222                800       Lone Star (1996)
+         0.02222                329       Star Trek: Generations (1994)
+         0.01639               173209     War Machine (2017)
+         0.01639               173145     War for the Planet of the Apes (2017)
+         0.01639               166558     Underworld: Blood Wars (2016)
+         0.01639               161131     War Dogs (2016)
+         0.01639               156607     The Huntsman Winter's War (2016)
+         0.01639               152284     War and Peace (2016)
+         0.01639               149902     Garm Wars: The Last Druid (2014)
+         0.01639               141668     War Room (2015)
+         0.01639               122920     Captain America: Civil War (2016)
+         0.01639               122912     Avengers: Infinity War - Part I (2018)
+         0.01639               115969     Generation War (2013)
+         0.01639               103249     World War Z (2013)
+         0.01639               93326      This Means War (2012)
+         0.01639               93040      Civil War, The (1990)
+         0.01639               92243      Flowers of War, The (Jin líng shí san chai) (2011)
+         0.01639               91126      War Horse (2011)
+         0.01639               85179      Summer Wars (Samâ wôzu) (2009)
+         0.01639               76751      American Drug War: The Last White Hope (2007)
+         0.01639               65585      Bride Wars (2009)
+         0.01639               64997      War of the Worlds (2005)
+         0.01639               64231      Punisher: War Zone (2008)
+         0.01639               63433      Farscape: The Peacekeeper Wars (2004)
+         0.01639               58309      War Dance (2007)
+         0.01639               56788      Charlie Wilson's War (2007)
+         0.01639               39801      Great Yokai War, The (Yôkai daisensô) (2005)
+         0.01639               36529      Lord of War (2005)
+         0.01639               34048      War of the Worlds (2005)
+         0.01639               33801      Godzilla: Final Wars (Gojira: Fainaru uôzu) (2004)
+         0.01639               32456      Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko) (1994)
+         0.01639               27912      Outfoxed: Rupert Murdoch's War on Journalism (2004)
+         0.01639               27869      Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004)
+         0.01639               27176      Style Wars (1983)
+         0.01639                8730      To End All Wars (2001)
+         0.01639                7212      I Was a Male War Bride (1949)
+         0.01639                7156      Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)
+         0.01639                5975      War and Peace (1956)
+         0.01639                5107      Hart's War (2002)
+         0.01639                4681      War of the Roses, The (1989)
+         0.01639                4577      Casualties of War (1989)
+         0.01639                4523      Milagro Beanfield War (1988)
+         0.01639                4475      Beast of War, The (Beast, The) (1988)
+         0.01639                3879      Art of War, The (2000)
+         0.01639                3150      War Zone, The (1999)
+         0.01639                2662      War of the Worlds, The (1953)
+         0.01639                1398      In Love and War (1996)
+         0.01639                556       War Room, The (1993)
+         0.01639                340       War, The (1994)
+
+Searching for: star trek
+          score               movie ID           Title        
+          0.2145               135569     Star Trek Beyond (2016)
+          0.2145               102445     Star Trek Into Darkness (2013)
+          0.2145               68358      Star Trek (2009)
+          0.2145                5944      Star Trek: Nemesis (2002)
+          0.2145                2393      Star Trek: Insurrection (1998)
+          0.2145                1376      Star Trek IV: The Voyage Home (1986)
+          0.2145                1375      Star Trek III: The Search for Spock (1984)
+          0.2145                1374      Star Trek II: The Wrath of Khan (1982)
+          0.2145                1373      Star Trek V: The Final Frontier (1989)
+          0.2145                1372      Star Trek VI: The Undiscovered Country (1991)
+          0.2145                1371      Star Trek: The Motion Picture (1979)
+          0.2145                1356      Star Trek: First Contact (1996)
+          0.2145                329       Star Trek: Generations (1994)
+         0.02222               187595     Solo: A Star Wars Story (2018)
+         0.02222               179819     Star Wars: The Last Jedi (2017)
+         0.02222               166528     Rogue One: A Star Wars Story (2016)
+         0.02222               135216     The Star Wars Holiday Special (1978)
+         0.02222               122886     Star Wars: Episode VII - The Force Awakens (2015)
+         0.02222               112070     Maps to the Stars (2014)
+         0.02222               111921     The Fault in Our Stars (2014)
+         0.02222               103210     Fullmetal Alchemist: The Sacred Star of Milos (2011)
+         0.02222               98633      My Lucky Stars (Fuk sing go jiu) (1985)
+         0.02222               84414      All-Star Superman (2011)
+         0.02222               79006      Empire of Dreams: The Story of the 'Star Wars' Trilogy (2004)
+         0.02222               71327      Bright Star (2009)
+         0.02222               61160      Star Wars: The Clone Wars (2008)
+         0.02222               57183      Like Stars on Earth (Taare Zameen Par) (2007)
+         0.02222               53453      Starcrash (a.k.a. Star Crash) (1978)
+         0.02222               42422      Voices of a Distant Star (Hoshi no koe) (2003)
+         0.02222               33493      Star Wars: Episode III - Revenge of the Sith (2005)
+         0.02222               27692      And Starring Pancho Villa as Himself (2003)
+         0.02222               26285      Dark Star (1974)
+         0.02222               25996      Star Is Born, A (1954)
+         0.02222                6702      Dickie Roberts: Former Child Star (2003)
+         0.02222                6107      Night of the Shooting Stars (Notte di San Lorenzo, La) (1982)
+         0.02222                5378      Star Wars: Episode II - Attack of the Clones (2002)
+         0.02222                4757      Rock Star (2001)
+         0.02222                4198      Battle Beyond the Stars (1980)
+         0.02222                3217      Star Is Born, A (1937)
+         0.02222                2628      Star Wars: Episode I - The Phantom Menace (1999)
+         0.02222                1613      Star Maps (1997)
+         0.02222                1210      Star Wars: Episode VI - Return of the Jedi (1983)
+         0.02222                1196      Star Wars: Episode V - The Empire Strikes Back (1980)
+         0.02222                800       Lone Star (1996)
+         0.02222                260       Star Wars: Episode IV - A New Hope (1977)
+
+Searching for: battle of gods dragon ball
+          score               movie ID           Title        
+          1.712                107953     Dragon Ball Z: Battle of Gods (2013)
+          0.1261               137863     Dragon Ball Z: Resurrection of F (2015)
+          0.1261               137859     Dragon Ball Z Gaiden: The Plot to Destroy the Saiyans (1993)
+          0.1261               108090     Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi) (1996)
+          0.1261               107999     Dragon ball Z 04: Lord Slug (1991)
+          0.1261               96007      Dragon Ball GT: A Hero's Legacy (Doragon bôru GT: Gokû gaiden! Yûki no akashi wa sû-shin-chû) (1997)
+          0.1261               96004      Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993)
+          0.1261               95965      Dragon Ball Z: Bardock - The Father of Goku (Doragon bôru Z: Tatta hitori no saishuu kessen - Furiiza ni itonda Z senshi Kakarotto no chichi) (1990)
+          0.1261               95780      Dragon Ball Z: Bio-Broly (Doragon bôru Z 11: Sûpâ senshi gekiha! Katsu no wa ore da) (1994)
+          0.1261               95771      Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai) (1994)
+          0.1261               95519      Dragon Ball Z: Bojack Unbound (Doragon bôru Z 9: Ginga girigiri!! Butchigiri no sugoi yatsu) (1993)
+          0.1261               95499      Dragon Ball Z: Broly - The Legendary Super Saiyan (Doragon bôru Z 8: Moetsukiro!! Nessen retsusen-chô gekisen) (1993)
+          0.1261               95497      Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin) (1992)
+          0.1261               95475      Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô) (1991)
+          0.1261               95473      Dragon Ball Z: The Return of Cooler (Doragon bôru Z 6: Gekitotsu! Hyakuoku pawâ no senshi) (1992)
+          0.1261               95182      Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990)
+          0.1261               95165      Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu) (1990)
+          0.1261               95163      Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai bôken) (1988)
+          0.1261               95147      Dragon Ball: Sleeping Princess in Devil's Castle (Doragon bôru: Majinjô no nemuri hime) (1987)
+          0.1261               95145      Dragon Ball: The Curse Of The Blood Rubies (Doragon bôru: Shenron no densetsu) (1986)
+          0.1261               80083      Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989)
+           0.05                184053     Battle Planet (2008)
+           0.05                172497     T2 3-D: Battle Across Time (1996)
+           0.05                140627     Battle For Sevastopol (2015)
+           0.05                118696     The Hobbit: The Battle of the Five Armies (2014)
+           0.05                107408     Only Old Men Are Going to Battle (V boy idut odni stariki) (1973)
+           0.05                85131      Battle: Los Angeles (2011)
+           0.05                68793      Night at the Museum: Battle of the Smithsonian (2009)
+           0.05                65631      Battle in Seattle (2007)
+           0.05                60389      Battle for Haditha (2007)
+           0.05                31086      Battles Without Honor & Humanity (Jingi naki tatakai) (1973)
+           0.05                27704      Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003)
+           0.05                26542      Ewoks: The Battle for Endor (1985)
+           0.05                26131      Battle of Algiers, The (La battaglia di Algeri) (1966)
+           0.05                 7022      Battle Royale (Batoru rowaiaru) (2000)
+           0.05                 6969      Dernier Combat, Le (Last Battle, The) (1983)
+           0.05                 6689      Battle of Shaker Heights, The (2003)
+           0.05                 4717      Battle Creek Brawl (Big Brawl, The) (1980)
+           0.05                 4198      Battle Beyond the Stars (1980)
+           0.05                 2531      Battle for the Planet of the Apes (1973)
+         0.03704               68600      Balls Out: Gary the Tennis Coach (2009)
+         0.03704               54732      Balls of Fury (2007)
+         0.03704                6125      Secret Policeman's Other Ball, The (1982)
+         0.03704                5015      Monster's Ball (2001)
+         0.03704                4599      Great Balls of Fire! (1989)
+         0.03571               152063     Gods of Egypt (2016)
+         0.03571               136912     God Loves Caviar (2012)
+         0.03571               123200     Jim Jefferies: I Swear to God (2009)
+         0.03571               117545     Asterix: The Land of the Gods (Astérix: Le domaine des dieux) (2014)
+         0.03571               116887     Exodus: Gods and Kings (2014)
+         0.03571               110603     God's Not Dead (2014)
+         0.03571               109897     Son of God (2014)
+         0.03571               104069     Louis C.K.: Oh My God (2013)
+         0.03571               102684     Only God Forgives (2013)
+         0.03571               97665      Asterix & Obelix: God Save Britannia (Astérix et Obélix: Au service de Sa Majesté) (2012)
+         0.03571               93855      God Bless America (2011)
+         0.03571               32116      Oh, God! You Devil (1984)
+         0.03571                7063      Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)
+         0.03571                6186      Gods and Generals (2003)
+         0.03571                6016      City of God (Cidade de Deus) (2002)
+         0.03571                5214      Oh, God! (1977)
+         0.03571                5213      Oh, God! Book II (1980)
+         0.03571                3845      And God Created Woman (Et Dieu... créa la femme) (1956)
+         0.03571                3251      Agnes of God (1985)
+         0.03571                2880      Armour of God (Long xiong hu di) (1987)
+         0.03571                2879      Armour of God II: Operation Condor (Operation Condor) (Fei ying gai wak) (1991)
+         0.03571                2333      Gods and Monsters (1998)
+         0.03571                2312      Children of a Lesser God (1986)
+         0.03571                2151      Gods Must Be Crazy II, The (1989)
+         0.03571                2150      Gods Must Be Crazy, The (1980)
+         0.03571                1647      Playing God (1997)
+         0.03571                1167      Dear God (1996)
+         0.02083               165959     Alesha Popovich and Tugarin the Dragon (2004)
+         0.02083               160573     Pete's Dragon (2016)
+         0.02083               146662     Dragons: Gift of the Night Fury (2011)
+         0.02083               134775     Dragon Blade (2015)
+         0.02083               113416     Revenge of the Green Dragons (2014)
+         0.02083               112175     How to Train Your Dragon 2 (2014)
+         0.02083               91658      Girl with the Dragon Tattoo, The (2011)
+         0.02083               76093      How to Train Your Dragon (2010)
+         0.02083               67255      Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)
+         0.02083               60937      Mummy: Tomb of the Dragon Emperor, The (2008)
+         0.02083               31553      Double Dragon (1994)
+         0.02083                8461      Dragon Seed (1944)
+         0.02083                7482      Enter the Dragon (1973)
+         0.02083                7047      Year of the Dragon (1985)
+         0.02083                6095      Dragon Lord (a.k.a. Dragon Strike) (Long Xiao Ye) (1982)
+         0.02083                5630      Red Dragon (2002)
+         0.02083                5055      Dragon: The Bruce Lee Story (1993)
+         0.02083                4444      Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972)
+         0.02083                4442      Last Dragon, The (1985)
+         0.02083                4387      Kiss of the Dragon (2001)
+         0.02083                3997      Dungeons & Dragons (2000)
+         0.02083                3996      Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)
+         0.02083                2582      Twin Dragons (Shuang long hui) (1992)
+         0.02083                1030      Pete's Dragon (1977)
+
+Searching for: ad
+          score               movie ID           Title        
+            1                  61350      Babylon A.D. (2008)
+
+Searching for: shield
+          score               movie ID           Title        
+            1                  112326     Nick Fury: Agent of S.H.I.E.L.D. (1998)
+
